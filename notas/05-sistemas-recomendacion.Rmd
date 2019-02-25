@@ -7,7 +7,7 @@ a personas según sus intereses.
 - **Problema**: predecir la respuesta de personas a estímulos a los que no han sido expuestos,
 basados en respuesta a otros estímulos de esta y quizá otras personas similares.
 
-Por ejemplo, si consideramos usuarios de Netflix: ¿qué tanto le puede gustar a X la película Y? Usuarios de Amazon: ¿qué tan probable es que compren Z artículo si se les ofrece?
+Por ejemplo, si consideramos usuarios de Netflix: ¿qué tanto le puede gustar a $X$ la película $Y$? Usuarios de Amazon: ¿qué tan probable es que compren $Z$ artículo si se les ofrece?
 
 
 ## Enfoques de recomendación
