@@ -9,10 +9,9 @@
 - Cuando hacemos una búsqueda, primero se filtran las páginas que tienen el contenido
 de nuestra búsqueda, y después los resultados se ordenan según el pagerank
 de estas páginas filtradas.
-- ¿Qué problema resuelve? En un principio, se usaron métodos como índices y recuperación de documentos usando técnicas como tf-idf. El problema es que es muy fácil que un *spammer* sesgue los resultados para que sus páginas tengan alto nivel de relevancia en este sentido. Así que la importancia no se juzga sólo con el contenido,  sino de los *votos* de otras páginas importantes. Este es un sistema más difícil de engañar.
+- ¿Qué problema resuelve? En un principio, se usaron métodos como índices y recuperación de documentos usando técnicas como *tf-idf*. El problema es que es muy fácil que un *spammer* sesgue los resultados para que sus páginas tengan alto nivel de relevancia en este sentido. Así que la importancia no se juzga sólo con el contenido,  sino de los *votos* de otras páginas importantes. Este es un sistema más difícil de engañar.
 
-- Es crucial usar la importancia de los *in-links* de una página: si no, sería tambíen fácil crear muchas páginas spam que apunten a otra dada para aumentar
-su importancia.
+- Es crucial usar la importancia de los *in-links* de una página: si no, sería tambíen fácil crear muchas páginas spam que apunten a otra dada para aumentar su importancia.
 
 El *Pagerank*, más en general, es una medida de *centralidad* o *importancia* de los nodos de una red dirigida. Comenzaremos considerando redes más variadas (por ejemplo, redes sociales) y el concepto general de *centralidad*.
 
