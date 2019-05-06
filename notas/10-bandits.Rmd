@@ -307,7 +307,7 @@ sitio web (por ejemplo), necesitamos balancear dos tipos de acciones:
 Estas dos caras son indispensables para la optimización: ninguna
 tiene mucho sentido sin la otra.
 
-El proceso que nos interesa lo formulamos como una máquina tragamonedas,
+El proceso que nos interesa lo formulamos como una máquina tragamonedas (slots machine),
 donde jalamos palancas y obtenemos resultados aleatorios:
 
 ```{block2, type="resumen"}
